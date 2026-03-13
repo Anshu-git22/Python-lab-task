@@ -1,0 +1,17 @@
+l1=[5,10,15,20,25,5,10,5]
+
+print(l1)
+l1.append(30)
+print(l1)
+l1.remove(15)
+print(l1)
+l1.extend([35,40])
+print(l1)
+l1.pop(2)
+print(l1)
+l1.sort()
+print(l1)
+l1.sort(reverse = True)
+print(l1)
+print(sum(l1))
+print(l1.count(5)) 

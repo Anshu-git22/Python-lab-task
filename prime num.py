@@ -7,5 +7,5 @@ for i in range(3,int(n/2)+1,2):
     else:
         print(n,"Is a prime")
 else:
-    print(n,"is not prime"
+    print(n,"is not prime")
     
