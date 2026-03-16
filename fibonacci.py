@@ -1,6 +1,6 @@
-n=int(input("Enter a value of n:"))
+n=(int(input("Enter a value of n:")))
 a,b=0,1
-print(a,end="")
+print(a,end=",")
 while b<n:
-    print(b,end="")
+    print(b,end=",")
     a,b=b,a+b
